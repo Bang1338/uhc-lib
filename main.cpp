@@ -1,7 +1,6 @@
 #include <windows.h>
 
 int main() {
-
     ShowWindow(FindWindowA("ConsoleWindowClass", NULL), 0); //Hide console window
     LPCWSTR hypercam = L"Unregistered HyperCam 2";
 
