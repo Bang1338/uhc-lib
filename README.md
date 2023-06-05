@@ -25,7 +25,7 @@ a library for Unregistered HyperCam 2
 
 # How to use?
 1. Import `uhc.dll` to your code
-2. use anything to trigger `HPCwtm("text goes here");`, best with C#:
+2. use anything to trigger `HPCwtm("text goes here");` and mutex, best with C#:
 ```csharp
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
