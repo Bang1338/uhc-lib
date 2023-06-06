@@ -49,3 +49,5 @@ a library for Unregistered HyperCam 2
 # Credit:
 * [hyperionics](http://www.hyperionics.com), father of the meme
 * [picocode](https://github.com/picocode1), for basic code
+
+### GitHub, STOP HIGHLIGHTING MAIN LANGUAGE IS C#. THE MAIN LANGUAGE IS C++ BRUH
